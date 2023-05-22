@@ -34,6 +34,5 @@
 
 
   
-![Snake animation](https://github.com/wesleyvicente/wesleyvicente/blob/output/github-contribution-grid-snake.svg)
- 
+
 #  
