@@ -1,4 +1,4 @@
-# DIO Campus Expert
+# Wesley Vicente
 ![image](https://user-images.githubusercontent.com/67916243/156890378-109437ed-8795-4363-a56c-98349e424267.png)
 
 # Quality Assurance Pleno
