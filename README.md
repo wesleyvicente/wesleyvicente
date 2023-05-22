@@ -20,12 +20,6 @@
  
 #
   
-<br>
-
-<div style="display: inline_block" align='center'>
-  <a href="https://beacons.ai/wesleyvicente">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=wesleyvicentes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvicente&layout=compact&langs_count=16&theme=dracula"/>
-</div>
   
   <br>
 
